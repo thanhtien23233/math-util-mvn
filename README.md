@@ -11,6 +11,7 @@
 ### Screen shots: 
 ![Source-code-with-JUnit](https://github.com/thanhtien23233/math-util-mvn/blob/main/ScreenShot/Source-code-with-JUnit.png)
 
+[![CI with GitHub Actions using Maven and JUnit](https://github.com/thanhtien23233/math-util-mvn/actions/workflows/maven.yml/badge.svg)](https://github.com/thanhtien23233/math-util-mvn/actions/workflows/maven.yml)
 
 #### Connect with me via thanhtien23233@gmail.com
 
