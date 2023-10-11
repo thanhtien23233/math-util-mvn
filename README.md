@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Maven and JUnit](https://github.com/thanhtien23233/math-util-mvn/actions/workflows/maven.yml/badge.svg)](https://github.com/thanhtien23233/math-util-mvn/actions/workflows/maven.yml)
+
 ### Welcome to Math Utility Project Repository 
 
 #### You will find the following stuff in this Maven project:
